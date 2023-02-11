@@ -1,1 +1,1 @@
-# hq1011-Automation_DEMO_saucedemo.com
+# hq1011-Automation_saucedemo.com
